@@ -9,6 +9,7 @@ This is a simple website built using only Bootstrap and CSS.
 * Simple Bootstrap projects with source code.
 * Getting introduced to some underrated and quite useful tags.
 * Project to practice.
+
 ## Getting Started
 
 #### Since this is an example project, I'd encourage you to clone and rename this project to use for your own purposes. It's a good starter boilerplate.
